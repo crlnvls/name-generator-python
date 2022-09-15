@@ -1,4 +1,4 @@
-# Python Exercises
+# Python Exercise
 - Make a `name_generator` module with two methods
   - `dragon_name` 
     - takes a person's first name and month of birth
